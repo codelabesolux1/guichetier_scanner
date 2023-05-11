@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "168937282821",
+    "project_id": "guichetier-224b2",
+    "storage_bucket": "guichetier-224b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168937282821:android:c6e892839e9057012d6b6c",
+        "android_client_info": {
+          "package_name": "com.example.guichetier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168937282821-6ei2ffcp3uovv5lp3vv1u8p69126e4ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb29YKvTV4A53fxlMXkmX2lvDTKfFJ0eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168937282821-6ei2ffcp3uovv5lp3vv1u8p69126e4ej.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "168937282821-3k56hk20r1bt2l5m83up51opgmmc4rd9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.guichetier"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168937282821:android:760e54afc582faf72d6b6c",
+        "android_client_info": {
+          "package_name": "com.example.guichetier_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168937282821-ieotc5qckbaecvunb2d26pirbd38piqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guichetier_scanner",
+            "certificate_hash": "971f17364060cc28e1e6f17bed44bf769ff11b90"
+          }
+        },
+        {
+          "client_id": "168937282821-6ei2ffcp3uovv5lp3vv1u8p69126e4ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb29YKvTV4A53fxlMXkmX2lvDTKfFJ0eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168937282821-6ei2ffcp3uovv5lp3vv1u8p69126e4ej.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "168937282821-3k56hk20r1bt2l5m83up51opgmmc4rd9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.guichetier"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
